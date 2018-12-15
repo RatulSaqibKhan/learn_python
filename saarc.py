@@ -6,4 +6,3 @@ else:
     print(country, "is not in Saarc!")
 print(type(country))
 print("Program Terminated!")
-
