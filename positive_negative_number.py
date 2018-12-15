@@ -6,4 +6,3 @@ elif number < 0:
     print(number,'is negative!')
 else:
     print("Zero Value inserted!")
-    
